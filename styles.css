@@ -1,0 +1,25 @@
+.title {
+    background-color: rgb(73, 88, 122);
+    color: white /* Color is ment for fonts. 
+    Hexadecimal, RGB and by name.
+    RGBA IS FOR TRANSPARENCY*/
+}
+
+body {
+    /*To check for colors on google chrome inspector, open inspector and then
+    select the element and then check the color with "gotero" to copy other rgb colors*/
+    background-color: brown;
+}
+
+div {
+    background-color: coral;
+    color: white;
+}
+
+.container {
+    background-color: aquamarine;
+}
+
+#third {
+    background-color: black;
+}
